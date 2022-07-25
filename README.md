@@ -15,13 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<div id="githubStatus" align="center">
   <img heigth="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mauricioyasser&show_icons=true&theme=dark"/>
   <img heigth="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioyasser&layout=compact&theme=dark"/>
 </div>
 
-<div>
-  <img heigth="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
-  <img heigth="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
-  <img heigth="40px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<div id="programmingLanguages">
+  <img heigth="30px" width="40px" align="center" alt="myHtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
+  <img heigth="30px" width="40px" align="center" alt="myCss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
+  <img heigth="30px" width="40px" align="center" alt="myJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+</div>
+
+<div id="socialMedias">
+  <a href="https://www.instagram.com/mauricioyazzr/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mauricioyasser/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+  </a>
+  <a href="" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+  </a>
 </div>
