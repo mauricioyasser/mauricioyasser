@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1><img width="30px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> Hello there! I'm Maurício Yasser</h1>
 
 <!--
 **mauricioyasser/mauricioyasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img heigth="180em" width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricioyasser&layout=compact&theme=dark"/>
 </div>
 
-## 🛠️ Tech Stack
+<h2>🛠️ Tech Stack</h2>
 
 <div id="techStack">
   <img heigth="30px" width="40px" align="center" alt="myHtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
