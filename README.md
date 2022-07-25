@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/mauricioyasser/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"/>
   </a>
-  <a href="" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:mauricio.y@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"/>
   </a>
 </div>
