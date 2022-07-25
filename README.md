@@ -1,4 +1,4 @@
-<h1><img width="30px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> Hello there! I'm Maurício Yasser</h1>
+<h1><img width="30px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> Hello there!</h1>
 
 <!--
 **mauricioyasser/mauricioyasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
