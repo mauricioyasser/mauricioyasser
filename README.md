@@ -21,15 +21,13 @@ Here are some ideas to get you started:
 </div>
 
 <h2>🛠️ Tech Stack</h2>
-
 <div id="techStack">
   <img heigth="30px" width="40px" align="center" alt="myHtml" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img heigth="30px" width="40px" align="center" alt="myCss" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img heigth="30px" width="40px" align="center" alt="myJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </div>
 
-##
-
+<h2>👨🏻 Social Links</h2>
 <div id="socialMedias" align="center">
   <a href="https://www.instagram.com/mauricioyazzr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"/>
