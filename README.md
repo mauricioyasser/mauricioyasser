@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 </div>
 
 <h2>👨🏻 Social Links</h2>
-<div id="socialMedias" align="center">
+<div id="socialMedias">
   <a href="https://www.instagram.com/mauricioyazzr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"/>
   </a>
