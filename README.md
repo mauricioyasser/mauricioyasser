@@ -36,4 +36,7 @@ Here are some ideas to get you started:
   <a href="mailto:mauricio.y@outlook.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank" rel="noopener noreferrer"/>
   </a>
+  <a href="https://open.spotify.com/user/12163745139?si=f5ca5ea922894edf" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" rel="noopener noreferrer"/>
+  </a>
 </div>
