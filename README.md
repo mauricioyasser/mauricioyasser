@@ -26,6 +26,8 @@ Here are some ideas to get you started:
   <img heigth="30px" width="40px" align="center" alt="myJS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </div>
 
+##
+
 <div id="socialMedias">
   <a href="https://www.instagram.com/mauricioyazzr/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" rel="noopener noreferrer"/>
