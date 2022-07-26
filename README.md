@@ -1,13 +1,7 @@
-<link rel="stylesheet" href="./style.css">
-
 # <img width="30px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> Hello there!
 
 <div id="pt-br" class="visible">
-  <p>Mussum Ipsum, cacilds vidis litro abertis. Quem manda na minha terra sou euzis! A ordem dos tratores não altera o pão duris. Atirei o pau no gatis, per gatis num morreus. Suco de cevadiss deixa as pessoas mais interessantis.</p>
-</div>
-
-<div id="eng-us" class="hidden">
-  <p>Mussum Ipsum, cacilds vidis litro abertis. Diuretics paradis num copo é motivis de denguis. Interagi no mé, cursus quis, vehicula ac nisi. In elementis mé pra quem é amistosis quis leo. Praesent malesuada urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+  <p></p>
 </div>
 
 <div id="githubStatus" align="center">
@@ -42,5 +36,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<script src="./script.js"></script>
