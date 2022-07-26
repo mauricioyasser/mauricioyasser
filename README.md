@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="./style.css">
+
 # <img width="30px" src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif"/> Hello there!
 
 <div id="pt-br" class="visible">
@@ -26,8 +28,6 @@
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mauricio.y@outlook.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/12163745139?si=f5ca5ea922894edf)
 
-<input type="button" value="teste">
-
 <!--
 **mauricioyasser/mauricioyasser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -42,3 +42,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<script src="./script.js"></script>
